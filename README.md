@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chunyubai&label=Profile%20views&color=0e75b6&style=flat" alt="chunyubai" /> </p>
 
-- 🔭 I’m currently working on [cineplanet](https://github.com/ChunyuBai/cineplanet)
+- 🔭 I’m currently working on [LeetCode 75](https://leetcode.com/study-plan/leetcode-75/?progress=x6eqrlnd)
 
-- 🌱 I’m currently learning **Python,Vue**
+- 🌱 I’m currently learning **Java,Vue**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChunyuBai](https://github.com/ChunyuBai)
 
