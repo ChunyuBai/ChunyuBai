@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Spotifire](https://github.com/ChunyuBai/Spotifire)
 
-- 🌱 I’m currently learning **Java,Vue**
+- 🌱 I’m currently learning **Python,Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChunyuBai](https://github.com/ChunyuBai)
 
