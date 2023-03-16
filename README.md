@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chunyubai&label=Profile%20views&color=0e75b6&style=flat" alt="chunyubai" /> </p>
 
-- 🔭 I’m currently working on [Spotifire](https://github.com/ChunyuBai/Spotifire)
+- 🔭 I’m currently working on [Python Django practice](https://github.com/ChunyuBai/python-practice)
 
 - 🌱 I’m currently learning **Python,Django**
 
